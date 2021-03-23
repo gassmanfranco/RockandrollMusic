@@ -1,0 +1,44 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+body h1{
+    font-size: 30px;
+    text-align: center;
+}
+body h2{
+    font-size: 18px;
+    padding-left: 25%;
+    max-width: 512px;
+}
+body strong{
+    color: #c6a348;
+}
+.mayer-patek{
+    border: 0;
+    max-width: 100%;
+    height: auto;
+    vertical-align: bottom;
+}
+body p{
+    width: 512px;
+    padding-left: 25%;
+}
+.p2{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.img1{
+    border: 0;
+    max-width: 246px;
+    height: 369px;
+    padding-left: 25%;
+}
+.img2{
+        border: 0;
+        max-width: 50%;
+        height: 369px;
+}
